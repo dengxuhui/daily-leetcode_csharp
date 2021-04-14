@@ -40,6 +40,11 @@
     <ItemGroup>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Scripts\BinarySearchTrarget.cs" />
+        <Compile Include="Scripts\DeleteRepeatNum.cs" />
+        <Compile Include="Scripts\FindLargestNumber.cs" />
+        <Compile Include="Scripts\NtfUglyNumber.cs" />
+        <Compile Include="Scripts\PrefixTree.cs" />
         <Compile Include="Scripts\RabbitsAnswer.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

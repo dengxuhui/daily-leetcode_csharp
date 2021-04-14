@@ -1,0 +1,5 @@
+D:\WorkFile\Personal\daily-leetcode_csharp\LeetcodeAnswer\bin\Debug\LeetcodeAnswer.exe
+D:\WorkFile\Personal\daily-leetcode_csharp\LeetcodeAnswer\bin\Debug\LeetcodeAnswer.pdb
+D:\WorkFile\Personal\daily-leetcode_csharp\LeetcodeAnswer\obj\Debug\LeetcodeAnswer.csprojAssemblyReference.cache
+D:\WorkFile\Personal\daily-leetcode_csharp\LeetcodeAnswer\obj\Debug\LeetcodeAnswer.exe
+D:\WorkFile\Personal\daily-leetcode_csharp\LeetcodeAnswer\obj\Debug\LeetcodeAnswer.pdb

@@ -14,7 +14,8 @@ namespace LeetcodeAnswer.Scripts
         private static int NumRabbits(int[] answers)
         {
             // HashSet<int,int> s = ne
-            HashSet<int> a = new HashSet<int>();
+            // HashSet<int> a = new HashSet<int>();
+            return 0;
         }
     }
 }
