@@ -43,6 +43,7 @@
         <Compile Include="Scripts\BinarySearchTrarget.cs" />
         <Compile Include="Scripts\DeleteRepeatNum.cs" />
         <Compile Include="Scripts\FindLargestNumber.cs" />
+        <Compile Include="Scripts\LargestDivisibleSubset.cs" />
         <Compile Include="Scripts\NtfUglyNumber.cs" />
         <Compile Include="Scripts\PrefixTree.cs" />
         <Compile Include="Scripts\RabbitsAnswer.cs" />

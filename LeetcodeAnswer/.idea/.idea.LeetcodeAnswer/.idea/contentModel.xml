@@ -17,6 +17,7 @@
         <e p="BinarySearchTrarget.cs" t="Include" />
         <e p="DeleteRepeatNum.cs" t="Include" />
         <e p="FindLargestNumber.cs" t="Include" />
+        <e p="LargestDivisibleSubset.cs" t="Include" />
         <e p="NtfUglyNumber.cs" t="Include" />
         <e p="PrefixTree.cs" t="Include" />
         <e p="RabbitsAnswer.cs" t="Include" />

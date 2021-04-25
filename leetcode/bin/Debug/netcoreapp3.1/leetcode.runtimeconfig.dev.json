@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Aer\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Aer\\.nuget\\packages"
-    ]
-  }
-}
